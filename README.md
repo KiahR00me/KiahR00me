@@ -1,4 +1,6 @@
 ## Hi there 👋
+## My name is Jerome Z. Caladiao
+## 4th year student in Pamantasan ng Lungsod ng Maynila
 
 <!--
 **KiahR00me/KiahR00me** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
